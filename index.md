@@ -177,12 +177,15 @@
 > - Sprawdź, czy możesz uruchomić aplikacje umieszczone na blackliście. 
 
     Kiosk mode -> Czy sie zaklada (Android/iOS)
+
 *TODO (in docs)*
 
     Kiosk mode -> Czy dalej aktywny po aktualizacji agenta
+
 *TODO (in docs)*
 
     COSU -> Kiosk na launchera w DO
+    
 *TODO (in docs)*
 
 
@@ -211,5 +214,5 @@
 > - Połącz się na adres ***https://detrick.l.fancyfon.com*** z pomocą internetu zewnętrznego(np. dane mobilne), jeśli wszystko jest w porządku, VPN z konfiguracją działa poprawnie.
 
     VPN Cisco Any Connect
-    
+
 *TODO*
