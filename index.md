@@ -1,14 +1,11 @@
-# README FAMOC
+# **FAMOC**
 
-## Regression tests
 
-___
-
-    Backup kontaktów (grup kontaktów) 
+# Backup kontaktów (grup kontaktów) 
     DA, DA + KNOX (kontakty tylko w PP),
     DO, COPE i BYOD (kontakty tylko w WP)
 
-> ## Policy/Advanced/Backup setting
+> ### Policy/Advanced/Backup setting
 > - Ustawić Business Contact sync interval na **Once a day**.
 > - Wybrać opcje np. *Contacts from user group* i wybrać dwie grupy różnych kontaktów.
 > - Zrobić enrollment i sprawdzić czy kontakty biznesowe weszły.
